@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Team Sync",
+    "time": "10:00",
+    "date": "2026-05-26",
+    "notes": "Discuss project progress"
+  },
+  {
+    "title": "Client Call",
+    "time": "14:00",
+    "date": "2026-05-26",
+    "notes": "Review requirements"
+  },
+  {
+    "title": "Design Review",
+    "time": "16:00",
+    "date": "2026-05-27",
+    "notes": "UI improvements"
+  }
+]
